@@ -16,6 +16,7 @@ dependencies:
   shared_preferences: ^2.3.3
   slide_countdown: ^2.0.2
   google_fonts: ^6.2.1
+  desktop_window: ^0.4.2
 
 dev_dependencies:
   flutter_test:

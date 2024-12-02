@@ -42,6 +42,9 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Custom
+# -- Custom --
+
+# Platform Specific
 /android
 /linux
+/web
